@@ -1,0 +1,42 @@
+div :hover{
+    border: solid black;
+}
+
+.borderbutton :hover{
+    border-color: black;
+}
+
+
+.primaria {
+    background-color:red;
+    
+
+}
+
+.secundaria {
+    background-color: green;
+}
+
+h3{
+    font-style: italic;
+}
+
+.complementar {
+    background-color: blueviolet;
+
+
+}
+.escura{
+    background-color:maroon;
+    padding: 10px 0;
+    border-width: 10px;
+
+
+}
+
+.clara{
+background-color: yellow;
+
+
+}
+
