@@ -1,0 +1,112 @@
+body {
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+img , #minha_foto {
+  position: fixed;
+  width: 10%;
+  top: 15%;
+  border-radius: 50%;
+  margin-left: 50%;
+
+}
+
+#titulo {
+  margin-top: 0;
+  padding: 1em;
+  background-color: aquamarine;
+  text-align: center;
+  position: fixed 100%;
+  width: 100%;
+  top: 0;
+}
+
+header {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: auto;
+  width: 80%;
+}
+
+#cabecalho {
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+}
+
+#linkedin {
+  position: absolute;
+  top: 80px;
+  left: 20px;
+}
+
+#table1 , th , td , caption {
+  border-style: dashed;
+  border: 1px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+  background-color: rgb(202, 202, 202);
+}
+
+#table1 {
+  top: 800px;
+  left: 250px;
+  position: fixed;
+}
+
+#rodape {
+  position: fixed;
+  color: rgb(11, 11, 44);
+  bottom: 100px;
+  left: 27%;
+  top: 95%;
+}
+
+.lado-esquerdo {
+  position: fixed;
+  font-size: medium;
+  text-align: left;
+  width: 400px;
+  margin-left: 75%;
+  margin-top: 18%;
+}
+
+.lado-direito {
+  position: fixed;
+  font-size: medium;
+  text-align: left;
+  width: 350px;
+  top: 38%;
+  margin-left: 15%;
+  position: left;
+}
+
+#licoes_aprendidas {
+  line-height: 20px;
+  position: fixed;
+  left: 20px;
+  top: 56%;
+  margin-left: 70%;
+}
+
+#licoes_a_aprender {
+  line-height: 20px;
+  position: fixed;
+  top: 56%;
+  margin-left: 50%;
+}
+
+#licoes_aprendidas , #licoes_a_aprender {
+  background-color: aqua;
+
+}
+
+div {
+  display: inline-block;
+
+}
